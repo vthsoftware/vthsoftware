@@ -9,7 +9,7 @@ No partimos de una solución predefinida. Primero entendemos el problema, valida
 
 ---
 
-## Qué hacemos
+## 🧭 Qué hacemos
 
 Trabajamos como **Socio Estratégico de TI** combinando validación, arquitectura, automatización, cloud/FinOps, integración de sistemas y orquestación selectiva de soluciones.
 
@@ -17,7 +17,7 @@ Nuestro foco no es “programar por programar”, sino ayudar a decidir **qué v
 
 ---
 
-## Servicios principales
+## 🧩 Servicios principales
 
 | Frente | Enfoque |
 |---|---|
@@ -30,7 +30,7 @@ Nuestro foco no es “programar por programar”, sino ayudar a decidir **qué v
 
 ---
 
-## Método de trabajo
+## ⚙️ Método de trabajo
 
 ### 1. Entender  
 Analizamos contexto, restricciones, procesos, datos, urgencia real y objetivos del negocio.
@@ -49,7 +49,7 @@ Coordinamos implementación, partners, calidad, seguimiento y evolución de la s
 
 ---
 
-## Para quién es VTH
+## 🎯 Para quién es VTH
 
 VTH es para equipos que necesitan claridad técnica antes de comprometer presupuesto, tiempo o desarrollo.
 
@@ -61,7 +61,7 @@ VTH es para equipos que necesitan claridad técnica antes de comprometer presupu
 
 ---
 
-## Principios
+## ✅ Principios
 
 - **Validar antes de desarrollar.**
 - **Automatizar cuando aporte valor real.**
@@ -73,7 +73,7 @@ VTH es para equipos que necesitan claridad técnica antes de comprometer presupu
 
 ---
 
-## Stack y áreas técnicas
+## 🛠️ Stack y áreas técnicas
 
 - **Backend:** Node.js, TypeScript, APIs, REST, GraphQL.
 - **Frontend:** React, Next.js, Astro.
@@ -84,7 +84,7 @@ VTH es para equipos que necesitan claridad técnica antes de comprometer presupu
 
 ---
 
-## Presencia institucional
+## 🌐 Presencia institucional
 
 - Web: [vthsoftware.pro](https://vthsoftware.pro)
 - LinkedIn: [VTH SOFTWARE](https://www.linkedin.com/company/vthsoftware/)
@@ -94,7 +94,7 @@ VTH es para equipos que necesitan claridad técnica antes de comprometer presupu
 
 ---
 
-## Contacto
+## 📩 Contacto
 
 Para consultas comerciales o estratégicas:
 
